@@ -1,4 +1,5 @@
 # Hello 👋
+Welcome to my GitHub page. Here you'll find projects that I have worked on in a personal and professional capacity. 
 
 ## About me
 I'm an algorithm engineer/data scientist working on developing algorithms for health applications. 
