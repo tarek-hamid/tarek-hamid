@@ -15,4 +15,4 @@ I'm an algorithm engineer/data scientist working on developing algorithms for he
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## Connect with me
-<a target="_blank" title="https://www.linkedin.com/in/tarekhamid/" href="https://www.linkedin.com/in/tarekhamid/"><img src="https://img.shields.io/badge/-Siba&nbsp;Moussa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" title="https://www.linkedin.com/in/tarekhamid/" href="https://www.linkedin.com/in/tarekhamid/"><img src="https://img.shields.io/badge/-Tarek&nbsp;Hamid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
