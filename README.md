@@ -1,6 +1,6 @@
-### Hello 👋
+# Hello 👋
 
-#### About me
+## About me
 I'm an algorithm engineer/data scientist working on developing algorithms for health applications. 
 
 ## 🛠 &nbsp;Language Stack&nbsp;&nbsp;
