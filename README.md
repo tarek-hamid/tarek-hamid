@@ -5,7 +5,7 @@ Welcome to my GitHub page. Here you'll find projects that I have worked on in a 
 I'm an algorithm engineer/data scientist working on developing algorithms for health applications. 
 
 ## 🛠 &nbsp;Language Stack&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=PYTHON)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
