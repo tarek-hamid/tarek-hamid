@@ -2,7 +2,7 @@
 Welcome to my GitHub page. Here you'll find projects that I have worked on in a personal and professional capacity. 
 
 ## About me
-I'm an algorithm engineer/data scientist working on developing algorithms for health applications. 
+I'm an algorithm engineer/data scientist working on developing algorithms for health applications. Passionate about using wearables data to promote proactive health monitoring. 
 
 ## 🛠 &nbsp;Language Stack&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
